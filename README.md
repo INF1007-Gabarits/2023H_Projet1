@@ -1,7 +1,7 @@
 # Projet 1 - Préparez vos placements financiers
 
 <!--- Changer la date de remise en modifiant le URL--->
-#### :alarm_clock: [Date de remise le dimanche 5 février 2023 à 23h59](https://www.timeanddate.com/countdown/generic?iso=20220213T2359&p0=165&font=cursive)
+#### :alarm_clock: Date de remise le dimanche 12 février 2023 à 23h59.
 
 ## Objectif
 Concevoir et implémenter un programme permettant de calculer le rendement de différents investissements selon différentes situations. 
